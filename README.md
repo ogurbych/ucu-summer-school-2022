@@ -1,5 +1,12 @@
 # Deep Reinforcement Learning for High-Frequency Trading
-Source code for the course "Deep Reinforcement Learning for High-Frequency Trading" at the Ukrainian Catholic University / Czech Technical University in July 2022.
+
+This repository contains source code for the course "Deep Reinforcement Learning for High-Frequency Trading" at the Ukrainian Catholic University (UCU) / Czech Technical University (CTU) in July 2022.
+
+## Course description
+
+Sooner or later, every Data Scientist meets with general financial tasks and automation of trading on a stock exchange – in particular. But not every Data Scientist knows how to apply Deep Reinforcement Learning to these assignments effectively. This course is designed to teach you just that – with real examples.
+
+Go to: [the University course page](https://apps.ucu.edu.ua/en/summerschool-courses/course-list/deep-reinforcement-learning-for-active-high-frequency-trading/) for more detail.
 
 ## Course content
 
@@ -12,13 +19,19 @@ Source code for the course "Deep Reinforcement Learning for High-Frequency Tradi
 7. Implement & train PPO
 8. Conclusions
 
+## Tools
+
+- Jupyter Notebook / Google Colab
+- Python
+- PyTorch, pandas
+
 ## YouTube
 
-Playlist: [Deep Reinforcement Learning for High Frequency Trading](https://youtube.com/playlist?list=PLyhqedfSX2oBr8hjUjZN2ILX1rMF7kCJ_).
+Course playlist on YouTube: [Deep Reinforcement Learning for High Frequency Trading](https://youtube.com/playlist?list=PLyhqedfSX2oBr8hjUjZN2ILX1rMF7kCJ_).
 
 ## Homework
 
-Goal: [maximize investment return](https://www.notion.so/blackthorn-ai/Homework-Deep-Reinforcement-Learning-for-High-Frequency-Trading-ff88cec31baf49049a182c7e34071ea2)
+Your goal: [maximize investment return](https://www.notion.so/blackthorn-ai/Homework-Deep-Reinforcement-Learning-for-High-Frequency-Trading-ff88cec31baf49049a182c7e34071ea2).
 
 ## Resources
 
