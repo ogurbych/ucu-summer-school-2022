@@ -35,4 +35,6 @@ Your goal: [maximize investment return](https://www.notion.so/blackthorn-ai/Home
 
 ## Resources
 
-Paper: [Deep Reinforcement Learning for Active High Frequency Trading](https://arxiv.org/abs/2101.07107)
+- Double DQN & PPO for HFT - [paper](https://arxiv.org/abs/2101.07107)
+- Random Forest for HFT - [paper](https://www.thertrader.com/2020/04/30/using-random-forest-to-model-limit-order-book-dynamic/)
+- Random Forest for HFT - [source code](https://github.com/thertrader/Using-random-forest-to-model-limit-order-book-dynamic)
